@@ -1,29 +1,27 @@
 # Flask on Cloud VM (Assignment 2)
 
 ## Student Info
-- Name:  
-- Cloud Provider:  
+- Name:  Aarav Desai
+- Cloud Provider:  Google Cloud
 
 ## Video recording: 
-- Zoom/Loom: 
+- Zoom/Loom: <[Zoom](https://drive.google.com/drive/folders/1gE6VDpZ2bISGLQ67lH9LoDyKOfAHF_Rs?usp=sharing)>
 
 ## Steps
 ### 1. VM Creation
-[screenshot]
+[![VM_Creation](images/VM_Creation.png)]
 
 ### 2. Networking (Port 5003 Open)
-[screenshot]
+[![Port](images/Networking.png)]
 
 ### 3. OS Update + Python Install
-[commands + screenshot]
+[![Update](images/Update.png)]
+[![pip](images/pip.png)]
 
 ### 4. Flask App Running
-[screenshot of terminal + browser]
+[![Running](images/Running.png)]
 
 ### 5. Public IP Access
-URL: http://XX.XX.XXX.XXX:5003  
-[screenshot]
+URL: http://34.67.149.180:5003/ 
+[[![IP](images/IP.png)]]
 
-### 6. (Bonus) Domain Name
-Domain: http://mydomain.tech:5003  
-[screenshot]
